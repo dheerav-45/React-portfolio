@@ -99,7 +99,7 @@ const About = () => {
                         <div className="about-skill">
                             <img src={tailwind_logo} alt="tailwind" /><p>Tailwind-Css</p>
                         </div>
-                        <div className="about-skill" style={{ backgroundColor: "white", width: "130px", height: "90px", paddingLeft: "8px", paddingRight: "8px" }}>
+                        <div className="about-skill-github" >
                             <img src={github_logo} alt="git" /><p >GitHub</p>
                         </div>
 
