@@ -178,7 +178,9 @@
 @media(max-width: 480px) {
     .footer {
         margin: 30px 20px;
+        width: 80%;
     }
+  
      .footer-top-left{
         width: 250px;
      }
@@ -223,6 +225,7 @@
         flex-direction: column;
         gap: 10px;
         text-align: center;
+        width: 300px;
         
     }
 
